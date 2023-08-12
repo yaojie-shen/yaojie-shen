@@ -11,6 +11,6 @@ My recent research interest lie in the fields of:
 - Large Language Models
 
 <div>
-<img height=150px align="center" src="https://github-readme-stats.vercel.app/api?username=acherstyx&show_icons=true&include_all_commits=true&count_private=true&bg_color=white&hide_border=true" alt="acherstyx's github stats" />&nbsp;
-<img height=150px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acherstyx&layout=compact&hide_border=true&bg_color=white" />
+<img height=120px align="center" src="https://github-readme-stats.vercel.app/api?username=acherstyx&show_icons=true&include_all_commits=true&count_private=true&bg_color=white&hide_border=true" alt="acherstyx's github stats" />&nbsp;
+<img height=120px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acherstyx&layout=compact&hide_border=true&bg_color=white" />
 </div>
