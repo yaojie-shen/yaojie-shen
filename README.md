@@ -30,6 +30,6 @@ Obsidian, Zotero, Things, Notion, ...
 #### Status
 
 <div>
-<img height=120px align="center" src="https://github-readme-stats.vercel.app/api?username=acherstyx&show_icons=true&include_all_commits=true&count_private=true&bg_color=white&hide_border=true" alt="acherstyx's github stats" />&nbsp;
-<img height=120px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acherstyx&layout=compact&hide_border=true&bg_color=white&langs_count=8&exclude_repo=AcherStyx.github.io" />
+<img height=160px align="center" src="https://github-readme-stats.vercel.app/api?username=acherstyx&show_icons=true&include_all_commits=true&count_private=true&bg_color=white&hide_border=true" alt="acherstyx's github stats" />&nbsp;
+<img height=160px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acherstyx&layout=compact&hide_border=true&bg_color=white&langs_count=8&exclude_repo=AcherStyx.github.io" />  
 </div>
